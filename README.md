@@ -6,6 +6,7 @@ This Slack app is designed to perform bulk operations such as sending invitation
 
 Before using this app, ensure that you have the following:
 
+- A Slack app enabled with necessary permissions in your Slack workspace. You can configure your Slack app at https://api.slack.com/apps/.
 - Python 3.x installed on your machine.
 - The required Python libraries installed. You can install them using `pip`:
   - slack_bolt
